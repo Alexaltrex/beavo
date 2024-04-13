@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/beavo/static/css/main.1527d333.css",
-    "main.js": "/beavo/static/js/main.1c4c725f.js",
+    "main.css": "/beavo/static/css/main.6769abf9.css",
+    "main.js": "/beavo/static/js/main.ee3031b3.js",
     "static/js/453.34543be4.chunk.js": "/beavo/static/js/453.34543be4.chunk.js",
+    "static/media/video.mp4": "/beavo/static/media/video.da49a0d4319dbc29784a.mp4",
     "static/media/background.png": "/beavo/static/media/background.6ca3e22fb5846add8131.png",
     "static/media/head.png": "/beavo/static/media/head.8ce7173e5932b052b1ae.png",
     "static/media/beavo.png": "/beavo/static/media/beavo.b68b36e641cae677cdc4.png",
@@ -15,12 +16,12 @@
     "static/media/twitter.png": "/beavo/static/media/twitter.6b8f29e662dd9c2bad0a.png",
     "static/media/telegram.png": "/beavo/static/media/telegram.9dd9f219e8d52183f0f0.png",
     "index.html": "/beavo/index.html",
-    "main.1527d333.css.map": "/beavo/static/css/main.1527d333.css.map",
-    "main.1c4c725f.js.map": "/beavo/static/js/main.1c4c725f.js.map",
+    "main.6769abf9.css.map": "/beavo/static/css/main.6769abf9.css.map",
+    "main.ee3031b3.js.map": "/beavo/static/js/main.ee3031b3.js.map",
     "453.34543be4.chunk.js.map": "/beavo/static/js/453.34543be4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1527d333.css",
-    "static/js/main.1c4c725f.js"
+    "static/css/main.6769abf9.css",
+    "static/js/main.ee3031b3.js"
   ]
 }
