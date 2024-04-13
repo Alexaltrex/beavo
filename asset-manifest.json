@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/beavo/static/css/main.1527d333.css",
+    "main.js": "/beavo/static/js/main.1c4c725f.js",
+    "static/js/453.34543be4.chunk.js": "/beavo/static/js/453.34543be4.chunk.js",
+    "static/media/background.png": "/beavo/static/media/background.6ca3e22fb5846add8131.png",
+    "static/media/head.png": "/beavo/static/media/head.8ce7173e5932b052b1ae.png",
+    "static/media/beavo.png": "/beavo/static/media/beavo.b68b36e641cae677cdc4.png",
+    "static/media/mouth.png": "/beavo/static/media/mouth.4c77839feb0bf2b1d41c.png",
+    "static/media/footer_logo.png": "/beavo/static/media/footer_logo.ca69a2e1d2ec762e07ac.png",
+    "static/media/doSomething.png": "/beavo/static/media/doSomething.36f9dbd449ac1993e0fb.png",
+    "static/media/hand.png": "/beavo/static/media/hand.1dcb31233eafa95c75e4.png",
+    "static/media/cloud.png": "/beavo/static/media/cloud.3d158a94a611ecbd6de2.png",
+    "static/media/plakat.png": "/beavo/static/media/plakat.dd49cb88f7efdf6270d6.png",
+    "static/media/twitter.png": "/beavo/static/media/twitter.6b8f29e662dd9c2bad0a.png",
+    "static/media/telegram.png": "/beavo/static/media/telegram.9dd9f219e8d52183f0f0.png",
+    "index.html": "/beavo/index.html",
+    "main.1527d333.css.map": "/beavo/static/css/main.1527d333.css.map",
+    "main.1c4c725f.js.map": "/beavo/static/js/main.1c4c725f.js.map",
+    "453.34543be4.chunk.js.map": "/beavo/static/js/453.34543be4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1527d333.css",
+    "static/js/main.1c4c725f.js"
+  ]
+}
